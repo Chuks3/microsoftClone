@@ -1,2 +1,2 @@
-read
-read
+# micriosoftClone
+A clone of the Microsoft homepage.
